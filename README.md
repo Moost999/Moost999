@@ -2,7 +2,7 @@
  - Programar é Arte... -
 
 ### Desenvolvedor Front-End
-#### Conhecimentos : 
+#### Tecnologias : 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,nodejs,ts,sql)](https://skills.thijs.gg)
 #### Ferramentas De Design/Layout : 
 [![My Skills](https://skills.thijs.gg/icons?i=figma,)](https://skills.thijs.gg)
