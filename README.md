@@ -6,7 +6,7 @@
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,nodejs,ts,sql)](https://skills.thijs.gg)
 #### Ferramentas De Design/Layout : 
 [![My Skills](https://skills.thijs.gg/icons?i=figma,)](https://skills.thijs.gg)
-#### Projectos upados : 
+#### Projetos upados : 
 #### https://chatgpt3uxuiproject.netlify.app/ (ReactJS, Tailwindcss)
 #### https://metaverseuxprojectbymoost.netlify.app/ (ReactJS, Motion Animations E TailwindCSS)
 ####
