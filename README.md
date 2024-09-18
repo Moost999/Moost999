@@ -3,7 +3,7 @@
 
 ### Desenvolvedor Front-End
 #### Tecnologias : 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,ts,sql,c#,unity)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,ts,sql,csharp)](https://skills.thijs.gg)
 #### Ferramentas De Design/Layout : 
 [![My Skills](https://skillicons.dev/icons?i=figma,)](https://skills.thijs.gg)
 #### Projetos upados : 
