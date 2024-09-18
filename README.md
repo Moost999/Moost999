@@ -1,4 +1,4 @@
-### Olá tenho 17 anos, estou terminando meu ensino médio e estou aguardando para ingressar em uma faculdade de tecnologia. Atualmente sou Desenvolvedor web, a procura de novas experiencias na programação a fim de adquirir novas habilidades e agregar conhecimentos, estou desenvolvendo habilidades de design UI/UX para aperfeiçoar meus projetos e os projetos nos quais estarei a desenvolver
+### Olá tenho 19 anos, Sou Universitario Atualmente sou Desenvolvedor web, a procura de novas experiencias na programação e compartilhar conhecimento, a fim de adquirir novas habilidades e agregar conhecimentos, estou desenvolvendo habilidades de design UI/UX para aperfeiçoar meus projetos e os projetos nos quais estarei a desenvolver
  - Programar é Arte... -
 
 ### Desenvolvedor Front-End
