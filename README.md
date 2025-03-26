@@ -19,7 +19,7 @@
 
 Sou um graduando em Sistemas de Informação de 19 anos, apaixonado por programação e inovação. Dedico-me a criar soluções tecnológicas que otimizam processos e impactam positivamente empresas e pessoas.
 
-- 🔭 Atualmente trabalhando em projetos com **Next.js** e **React**
+- 🔭 Atualmente trabalhando em projetos com **Next.js** + **React** **NodeJS** + **MongoDB**
 - 🌱 Estudando **Java**, **Spring Framework** e **Angular**
 - 💡 Interessado em desenvolvimento web, automação e IoT
 - 🚀 Sempre em busca de novos desafios e aprendizados
